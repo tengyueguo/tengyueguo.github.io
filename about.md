@@ -4,14 +4,9 @@ title: About
 permalink: /about/
 ---
 
-## 关于我
-
-你好，我是翩帆，本科软件工程专业在读。
+## 关于我 / About Me
 
 这是我基于 GitHub Pages 平台创建的个人博客，用于记录和分享我在技术方面的学习心得与成长收获。
 
-如果你对我的文章有任何疑问，或者发现文章中存在错误，可以通过邮件与我联系。
+Those private blogs hosted on GitHub Pages are intended for recording and sharing my learning experiences and the progress I've made in the field of technology.
 
-## 版权声明
-
-本博客文章都是我的原创文章，版权归我所有，转载请与我联系获得授权许可。
