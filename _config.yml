@@ -1,5 +1,5 @@
-name: "HuHuKey's Blogs"
-description: "Hu的个人技术博客"
+name: "Guo's Blogs"
+description: "Guo的个人技术博客"
 
 avatar: https://pianfan.github.io/images/avatar.png
 favicon: https://pianfan.github.io/images/favicon.ico
@@ -18,9 +18,9 @@ excerpt_separator: <!-- more -->
 
 footer-links:
   zhihu: 
-  email: 1115152676@qq.com
+  email: 2901332535@qq.com
   facebook:
-  github: HuHuKey
+  github: tengyueguo
   rss: # just type anything here for a working RSS icon
   twitter: 
   youtube:
